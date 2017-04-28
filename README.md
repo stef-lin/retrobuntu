@@ -1,2 +1,2 @@
 # retrobuntu
-ubuntu fork retrogaming
+Ubuntu fork retrogaming
